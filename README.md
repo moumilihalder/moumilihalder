@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Moumili Halder 👋
+Final-year B.Tech CSE student | Full-Stack Developer
 
-<!--
-**moumilihalder/moumilihalder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- TailwindCSS
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### TalkNova
+AI-powered conversational web application built with React.js and Gemini API.
+
+Live Demo: https://talk-nova-frontend.vercel.app
+
+### NutriTrack
+MERN-based health & fitness tracker with BMI calculator, diet planner and JWT authentication.
+
+Live Demo: https://nutritrack-frontend.vercel.app
