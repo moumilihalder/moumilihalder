@@ -25,7 +25,7 @@ Includes real-time API communication and a responsive UI.
 MERN-based **health & fitness tracker** featuring BMI calculator, diet planner, water tracker, and workout modules.
 Includes **JWT authentication and MongoDB database integration**.
 
-**Live Demo:** https://vercel.com/moumili-halders-projects/nutritrack-frontend
+**Live Demo:** https://nutritrack-frontend-beryl.vercel.app
 
 ---
 
@@ -34,7 +34,7 @@ Includes **JWT authentication and MongoDB database integration**.
 Responsive **news aggregator web application** built with **React.js and News API**.
 Allows users to browse news by category and search keywords with a clean responsive UI.
 
-**Live Demo:** https://vercel.com/moumili-halders-projects/news-nexa-frontend
+**Live Demo:** https://news-nexa-frontend.vercel.app
 
 ---
 
